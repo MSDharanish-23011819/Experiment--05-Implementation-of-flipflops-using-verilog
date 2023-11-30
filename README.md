@@ -109,8 +109,8 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Dharanish M.S
+RegisterNumber:  23011819
 */
 
 
@@ -118,23 +118,134 @@ RegisterNumber:
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
+# CODE:
+
+
+## SR FLIP FLOP:
+
+![Code](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/d9ddff60-4485-499d-abc9-079a07e591c5)
+
+
+
+## D FLIP FLOP:
+
+![code](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/e570a329-08f0-470f-adbf-f8b44eb07895)
+
+
+
+
+
+## JK FLIP FLOP:
+
+![code](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/14bda5c6-3dad-4083-a4ea-8c96a4a2826c)
+
+
+
+
+## T FLIP FLOP:
+
+![Code](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/41d1adf0-a5e0-4306-a1de-765b401fdd54)
+
+
+
+# RTL DIAGRAM:
+
+
+
+## SR FLIP FLOP:
+
+![RTL](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/a8863068-6c1f-48b4-9c7f-e057b742de92)
+
+
+
+## D FLIP FLOP:
+
+
+![RTL](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/71f2925e-faf8-48f4-aa4c-037f8715eb86)
+
+
+
+## JK FLIP FLOP:
+
+
+![RTL](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/bc5afe51-c649-4252-9ad7-b39790bf37d1)
+
+
+
+## T FLIP FLOP:
+
+![RTL](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/375152e6-58bb-4b3a-a4f8-b30872e85758)
+
+
+
+# TRUTH TABLE:
+
+
+
+## SR FLIP FLOP:
+
+![truth table](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/4bf5f26c-bdff-41e7-93eb-1f4960b9e751)
+
+
+
+## D FLIP FLOP:
+
+
+![truth table](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/8c5783ba-a9d1-4bac-b4ad-ff968b35d875)
+
+
+
+## JK FLIP FLOP:
+
+
+![truth table](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/48502ce3-96ef-4118-802f-2db13f8a0fb4)
+
+
+
+## T FLIP FLOP:
+
+
+![truth table](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/e7a1bb01-a8fc-4096-90ba-26fc686fb7c4)
+
+
+
+
+# TIMING DIGRAMS :
+
+
+
+
+## SR FLIP FLOP:
+
+![Output](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/9bf1877f-94e4-40cb-aadb-f955899575d8)
+
+
+
+## D FLIP FLOP:
+
+
+![timing diagram](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/d0014f7f-5b64-4554-8451-3bf06ab620e6)
+
+
+
+## JK FLIP FLOP:
+
+
+![timing diagram](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/9b51429c-e3e7-490a-bac4-623051f53deb)
+
+
+
+## T FLIP FLOP:
+
+
+![Output](https://github.com/Harevasu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147985044/a4c24891-2513-42c4-922c-77017234cddd)
 
 
 
 
 
 
+# RESULTS :
 
 
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
-
-
-
-
-
-
-
-
-### RESULTS 
+Thus, all the FLIP FLOPS are designed and the truth tables are verified using quartus software.
